@@ -1,0 +1,11 @@
+payload:
+  - '.googlevideo.com'
+  - '.youtube.*'
+  - 'youtubei.googleapis.com'
+  - '.gvt2.com'
+  - '.youtu.be'
+  - 'googlevideo.com'
+  - 'youtube.*'
+  - 'youtubei.googleapis.com'
+  - 'gvt2.com'
+  - 'youtu.be'
